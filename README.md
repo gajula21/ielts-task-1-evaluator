@@ -113,9 +113,3 @@ Example images taken from public IELTS resources:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 💡 Future Improvements
-
-- ✍️ Add support for Writing Task 2
-- 📊 Save evaluation history
-- 🧠 Add rewrite/improve suggestions
